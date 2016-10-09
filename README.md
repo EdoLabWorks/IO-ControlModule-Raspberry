@@ -7,7 +7,7 @@ sync with it by providing its ip addresss in the config panel tab.
 After the synchronization process, you can now control your Raspberry Pi in your laptop or desktop in sync with 
 your web browser everytime.
 
-Turn ON/OFF the LED's or peripherals from your laptop or desktop PC.
+Turn ON/OFF remotely the LED's or peripherals connected in your Raspberry pi from your laptop or desktop PC.
 
 Check the F1, F2 and F3 function buttons for different LED blinking patterns.
 

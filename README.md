@@ -9,7 +9,7 @@ your web browser everytime.
 
 Turn ON/OFF remotely the peripherals connected in your Raspberry pi from your laptop or desktop PC.
 
-Check the F1, F2, F3 and F4 function buttons for different LED blinking patterns.
+Check the F1, F2 and F3 function buttons for different LED blinking patterns.
 
 
 
